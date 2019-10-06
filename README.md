@@ -1,2 +1,3 @@
-# Group-Member-Match-Based-on-Data-Learning
+# Community for students have same interests in courses   
+
 EC 601 Big Project
