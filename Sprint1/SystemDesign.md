@@ -11,7 +11,7 @@ Simple and easy-use Administration interface.
 Open source, we can have abundant help.   
 Great security, it hides our source code.      
 
-Compare with Flask   
+<b> Compare with Flask </b>     
 Advantages of Django are below:    
 Django provides an all-inclusive experience: you get an admin panel, database interfaces, an ORM, and directory structure for your apps and projects out of the box.    
 Django has a conventional project structure is used in django while in flask an an arbitrary structure is used. This structure your application according to best practices while saving a lot of time in development hours.    
