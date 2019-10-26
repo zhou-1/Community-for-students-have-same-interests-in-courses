@@ -4,4 +4,6 @@ EC 601 Big Project
 
 ## Process
 Finished sprint 1.      
-<b>Current: </b> working on Django.   
+Working on sprint 2.  
+
+<b>Goal: </b> working on Django.   
