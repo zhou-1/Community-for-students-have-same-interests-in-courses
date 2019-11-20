@@ -2,7 +2,9 @@
 
 EC 601 Big Project    
 
-## Set up    
+## Set up      
+
+### Needed files and programs    
 
 ## Process
 Finished sprint 1.      
