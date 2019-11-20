@@ -1,9 +1,20 @@
 # Community for students have same interests in courses   
 
-EC 601 Big Project
+EC 601 Big Project    
+
+## Set up    
 
 ## Process
 Finished sprint 1.      
-Working on sprint 2.  
+Finished sprint 2.  
+Working on sprint3.  
 
-<b>Goal: </b> working on Django.   
+## Sprint 1
+
+
+## Sprint 2  
+
+
+## Sprint 3   
+
+ 
