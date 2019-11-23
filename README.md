@@ -15,8 +15,7 @@ Working on sprint3.
 First, sprint 1 introduces product definition including product mission, target users, user stories, MVP and user interface.    
 Second, sprint1 also lists the product survey about comparing with other similar products.    
 Third, sprint 1 shows system design about Major Components, web framework, a little bit about goal of algotithm.      
-Below is 
-
+Below is the architectur image for our project.
 ![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/img/architecture.JPG)
 
 ## Sprint 2  
