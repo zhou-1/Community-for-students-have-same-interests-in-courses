@@ -17,7 +17,7 @@ Second, sprint1 also lists the product survey about comparing with other similar
 Third, sprint 1 shows system design about Major Components, web framework, a little bit about goal of algotithm.      
 Below is 
 
-![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/Sprint1/architecture%20-%20Detailed%20Steps%201.pdf)
+![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/img/architecture.JPG)
 
 ## Sprint 2  
 
