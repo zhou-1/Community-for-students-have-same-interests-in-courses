@@ -29,6 +29,8 @@ Operating system need: Linux
 In sprint 2, there is a [zipped file called matchComm2.zip](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/Sprint2/matchComm2.zip), please download it and unzipp it in Linux environment.     
 
 
+Below is the final setted up demo image.    
+![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/Sprint2/IndexView.PNG)
 
 #### Manual for user register/login system   
 
