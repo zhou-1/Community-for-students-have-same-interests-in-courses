@@ -17,7 +17,7 @@ First, sprint 1 introduces product definition including product mission, target 
 Second, sprint1 also lists the product survey about comparing with other similar products.    
 Third, sprint 1 shows system design about Major Components, web framework, a little bit about goal of algotithm.      
 Below is the architectur image for our project.
-![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/img/architecture.JPG)
+![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/architecture.JPG)
 
 ## Sprint 2  
 In sprint 2, we focused most on web development; also we talked a lot about algorithm and leave for sprint 3 to decide the most proper algorithm.      
