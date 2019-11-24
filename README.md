@@ -30,7 +30,7 @@ There are two set up manual for sprint 2.
 Operating system need: Linux    
 Programming language: Python   
 
-In sprint 2, there is a [zipped file called matchComm2.zip](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/Sprint2/matchComm2.zip).    
+In sprint 2, there is a [zipped file called matchComm2.zip](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/Sprint2/matchComm2.zip).    
 First, please download it and unzipp it in Linux environment.   
 Second, download python3 and install.   
 Third, download Django and install.    
