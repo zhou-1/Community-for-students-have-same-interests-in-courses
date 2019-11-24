@@ -38,7 +38,7 @@ Forth, go to the folder, use command ```manage.py runserver 0.0.0.0:8080``` to r
 Fifth, go to the browser to check the webpage, http://192.168.0.1:8080.      
 
 Below is the final setted up demo image.    
-![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen-part/Sprint2/IndexView.PNG)
+![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/Sprint2/IndexView.PNG)
 
 #### Manual for user register/login system   
 
