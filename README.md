@@ -69,7 +69,7 @@ For the recommendation system, we utilize the k-nearest neighbors algorithm to c
 
 ### sprint 3 set up     
 There are three set up manual for sprint 3.      
-#### Manual for questionaire web system (including our algorithm)          
+#### Manual for questionaire web system              
 Operating system need: Linux    
 Programming language: Python   
 
@@ -89,6 +89,7 @@ Below is the final setted up demo image.
 #### Manual for user register/login system      
 
        
+#### Manual for algorithm (.py file)      
 
 
  
