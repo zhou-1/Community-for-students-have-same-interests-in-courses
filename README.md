@@ -5,7 +5,7 @@ EC 601 Big Project
 
 ### Needed files and programs    
 
-
+### User example
 
 ## Process
 Finished sprint 1.      
@@ -54,7 +54,7 @@ For questionaire web system, we added several academic questions for better cour
 Demo for more academic questions:    
 ![demo question image](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/1.PNG)     
 
-For algorithm,     
+For the recommendation system, we utilize the k-nearest neighbors algorithm to classify users into different predefined groups based on their answers of the quetionnaire. In the questionaire, we add 10 questions to evaluate each user, the first one is to ask whether the user is undergrad or grad
 
 
 ### sprint 3 set up     
