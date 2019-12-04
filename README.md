@@ -1,9 +1,12 @@
 # Community for students have same interests in courses   
 Get recommanded courses based on your own choices and our algorithm, communicate and make friends in our accademic web community.    
 
-## Final Set up for the project           
+## Final Set up for the project      
+### Needed files and programs       
 
-### Needed files and programs    
+
+### Manual for setting up        
+
 
 ### User example
 We have bunch of users, like one of them, Z, want to find proper course in Electrical and Computer Engineering major in Boston University. Z can use our web questionaire system (including our recommendation algorithm) to get recommended courses from us; moreover, he can also go to our course community to check others' sharing and review.     
