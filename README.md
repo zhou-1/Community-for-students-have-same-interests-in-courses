@@ -73,7 +73,7 @@ There are three set up manual for sprint 3.
 Operating system need: Linux    
 Programming language: Python   
 
-In sprint 3, there is a [zipped file called matchApp.zip]().    
+In sprint 3, there is a [zipped file called matchApp.zip](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/Sprint3/matchApp.zip).    
 First, please download it and unzipp it in Linux environment.   
 Second, download python3 and install.   
 Third, download Django and install.    
@@ -82,8 +82,8 @@ Fifth, go to the browser to check the webpage, http://192.168.0.1:8080.
 Sixth, choose the result based on your background and submit your answer.
 
 Below is the final setted up demo image.    
-![Image description1]()   
-![Image description2]()   
+![Image description1](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/sprint3_into.png)      
+![Image description2](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/sprint3_question.png)        
 
 
 #### Manual for user register/login system      
