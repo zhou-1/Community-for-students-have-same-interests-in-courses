@@ -1,12 +1,20 @@
 # Community for students have same interests in courses   
-EC 601 Big Project  
+Get recommanded courses based on your own choices and our algorithm, communicate and make friends in our accademic web community.    
 
 ## Final Set up for the project           
 
 ### Needed files and programs    
 
 ### User example
+We have bunch of users, like one of them, Z, want to find proper course in Electrical and Computer Engineering major in Boston University. Z can use our web questionaire system (including our recommendation algorithm) to get recommended courses from us; moreover, he can also go to our course community to check others' sharing and review.     
+We also have bunch of users, like one of them, A, want to find classmates or even friends in same interesting coourse. So in our community, if they find they have same interests in course, they can add each other as friend (leave email, social media to add friend in post). In the future, we will add private chat in our community system, so users can chat through our community system instead of adding social media friends which protect their privacy if they want.    
+In the future, we will also open our algorithm as open API for people who are interested in matching and recommendation algorithm.      
 
+### Architecture    
+Below is the architectur image for our project.    
+![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/architecture.JPG)   
+    
+    
 ## Process
 Finished sprint 1.      
 Finished sprint 2.  
@@ -17,8 +25,7 @@ Preparing for final wrap-up.
 First, sprint 1 introduces product definition including product mission, target users, user stories, MVP and user interface.    
 Second, sprint1 also lists the product survey about comparing with other similar products.    
 Third, sprint 1 shows system design about Major Components, web framework, a little bit about goal of algotithm.      
-Below is the architectur image for our project.
-![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/architecture.JPG)
+Detailed sprint 1 materials and processes are in sprint 1 folder.    
 
 ## Sprint 2  
 In sprint 2, we focused most on web development; also we talked a lot about algorithm and leave for sprint 3 to decide the most proper algorithm.      
