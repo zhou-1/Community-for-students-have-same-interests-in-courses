@@ -82,7 +82,8 @@ Fifth, go to the browser to check the webpage, http://192.168.0.1:8080.
 Sixth, choose the result based on your background and submit your answer.
 
 Below is the final setted up demo image.    
-![Image description]()
+![Image description1]()   
+![Image description2]()   
 
 
 #### Manual for user register/login system      
