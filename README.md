@@ -82,7 +82,8 @@ Fifth, go to the browser to check the webpage, http://192.168.0.1:8080.
 Sixth, choose the result based on your background and submit your answer.
 
 Below is the final setted up demo image.    
-![Image description]()
+![Image description1](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen_part/img/sprint3_into.png)   
+![Image description2](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/Shen_part/img/sprint3_question.png)   
 
 
 #### Manual for user register/login system      
