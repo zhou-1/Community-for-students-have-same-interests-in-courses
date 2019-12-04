@@ -1,11 +1,15 @@
 # Community for students have same interests in courses   
-EC 601 Big Project  
+Get recommanded courses based on your own choices and our algorithm, communicate and make friends in our accademic web community.    
 
 ## Final Set up for the project           
 
 ### Needed files and programs    
 
 ### User example
+We have bunch of users, like one of them, Z, want to find proper course in Electrical and Computer Engineering major in Boston University. Z can use our web questionaire system (including our recommendation algorithm) to get recommended courses from us; moreover, he can also go to our course community to check others' sharing and review.     
+We also have bunch of users, like one of them, A, want to find classmates or even friends in same interesting coourse. So in our community, if they find they have same interests in course, they can add each other as friend (leave email, social media to add friend in post). In the future, we will add private chat in our community system, so users can chat through our community system instead of adding social media friends which protect their privacy if they want.    
+In the future, we will also open our algorithm as open API for people who are interested in matching and recommendation algorithm.      
+
 
 ## Process
 Finished sprint 1.      
