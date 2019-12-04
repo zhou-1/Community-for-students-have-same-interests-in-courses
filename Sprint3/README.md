@@ -4,4 +4,4 @@ Algorithm for courses recommendation (and friend recommendation)
 Add more features in user login/register system   
 (Web chat)   
 
-UI optimization    
+<b> UI optimization </b>       
