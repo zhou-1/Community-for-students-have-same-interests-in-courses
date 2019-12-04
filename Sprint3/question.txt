@@ -1,0 +1,17 @@
+Lable: 
+Robotics	Data Analytics	Cybersecurity
+A1 to A3 increasing
+
+Qs: 
+0.undergrad/grad
+
+rating with A+/A, B+/B, lower/haven't taken yet 
+1.EC 501 Dynamic System Theory/ME570 Robot Motion Planning
+2.EC 516 Digital signal processing/EC 535 Embedded systems
+
+3.EC 503 Learning from Data/EC 523 Deep Learning/CS 542 Machine Learning
+4.CS 506 Computational Tools for Data Science/CS 565 Algorithmic Data Mining
+
+5.EC 521 Systems Security/EC 522 Network Security/CS 552 Operating Systems
+6.CS 538 Cryptography/CS 558 Network Security
+
