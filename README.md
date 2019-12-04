@@ -10,8 +10,8 @@ EC 601 Big Project
 ## Process
 Finished sprint 1.      
 Finished sprint 2.  
-Working on sprint3, almost done.
-Preparing for final wrap-up.
+Working on sprint3, almost done.     
+Preparing for final wrap-up.    
 
 ## Sprint 1
 First, sprint 1 introduces product definition including product mission, target users, user stories, MVP and user interface.    
