@@ -52,7 +52,7 @@ For user login/register system, we updated several links to different web pages.
 
 For questionaire web system, we added several academic questions for better course recommendation, also for each question, there will be different response on it; at the end of user finishing questions, the system will show a webpage for loading, at the meantime, our algorithm will match best course for user based on his/her choices, when the algorithm finishs its process, our page will show the result and have a link for user to community. Right now, the user interface, loading page is basic. In the future, we will modify it to be better. Also, we will add function to show the result after loading page, we will record the answer to a text file which will be used as input for the algorithm.     
 Demo for more academic questions:    
-[demo question image](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/1.PNG)     
+![demo question image](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/1.PNG)     
 
 For algorithm,     
 
