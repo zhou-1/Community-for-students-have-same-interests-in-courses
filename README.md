@@ -33,7 +33,21 @@ Detailed sprint 1 materials and processes are in sprint 1 folder.
 ## Sprint 2  
 In sprint 2, we focused most on web development; also we talked a lot about algorithm and leave for sprint 3 to decide the most proper algorithm.      
 For first of the main webpages, questionaire, it is used for new user to select the academic areas for courses recommendation use in the future, also is used for existed users to update their academic interests before the new semester so they can get new recommendations for courses for every semester.      
-For second of the main webpages, user register/log in system, it is used for new user to register for our system; also registered user can post their thoughts in community and share their ideas under others' comments.     
+For second of the main webpages, user register/log in system, it is used for new user to register for our system; also registered user can post their thoughts in community and share their ideas under others' comments.It can be generaly seperated as User / Blog / Media Directories.
+The Blog Directory contains the templates of the main pages, in which there are base, about and home page.
+The User Directory contains most user-related pages like login & logout page, registerpage and profile pages.
+The Media Direcyoru contains all the media files like profile pictures / defult pictures for each user.
+The whole program can achieve the following fuctions:
+Register system for new users, SQLlite for saving the user datas.
+Basic wrong message if the username or password is incorrect or unsecure.
+After login there will be a profile button and quora button for users to edit their own profile (including name, email, pictures, etc.) and can jump to the questionare by clicking the quora button.
+The user can logout and will not be able to see the profile and quora button again. But still can see the home button and about button.
+The home button and the name "CourseFront" button can let the user go back to the home page.
+(If you regard this community as a boundless ocean these button can bring you home no matter where you are.)
+The about button can introduce the web to all the visitors to this website even to those who haven't registered.
+In the home page everyone can see the blogs that are posted. Including the author, time, title and content.
+The administrator can add other administrators and manage the blogs, like editing all the informations above.
+     
 
 ### sprint 2 set up     
 There are two set up manual for sprint 2.    
