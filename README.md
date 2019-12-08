@@ -107,11 +107,11 @@ Below is the final setted up demo image.
 Operating system need: Linux / Windows
 Programming language: Python   
 
-In sprint 3, there is a [zipped file called KNN.zip](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/Sprint3/KNN.zip).
-First, please download it and unzip it in the required environment.
-Second, download python3 and install.
-Third, run the KNNmactch.py file in the terminal with ```python KNNmatch.py```
-Forth, go to the folder, use command ```manage.py runserver 0.0.0.0:8080``` to run the server, 8080 will be the port we use on webpage.
-Fifth, open the browser to check the classification result.
+In sprint 3, there is a [zipped file called KNN.zip](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/Sprint3/KNN.zip).    
+First, please download it and unzip it in the required environment.    
+Second, download python3 and install.    
+Third, run the KNNmactch.py file in the terminal with ```python KNNmatch.py```    
+Forth, go to the folder, use command ```manage.py runserver 0.0.0.0:8080``` to run the server, 8080 will be the port we use on webpage.    
+Fifth, open the browser to check the classification result.    
 
 
