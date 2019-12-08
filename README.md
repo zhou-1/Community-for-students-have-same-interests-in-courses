@@ -103,7 +103,10 @@ Below is the final setted up demo image.
 #### Manual for user register/login system      
 
        
-#### Manual for algorithm (.py file)      
+#### Manual for algorithm (.py file)
+Operating system need: Linux / Windows
+Programming language: Python   
+
+In sprint 3, there is a KNNmatch.py file. 
 
 
- 
