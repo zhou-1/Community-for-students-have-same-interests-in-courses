@@ -6,9 +6,17 @@ https://stories.mlh.io/deploying-a-basic-django-app-using-azure-app-services-71e
 ## Final Set up for the project      
 ### Needed files and programs       
 All files needed in [FinalFiles folder](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/tree/master/FinalFiles)    
+Download the zipped file inside the folder.   
 
 ### Manual for setting up        
-
+Operating system need: Linux     
+Programming language: Python     
+  
+First, please download it and unzipp it in Linux environment.   
+Second, download python3 and install.   
+Third, download Django and install.    
+Forth, go to the folder, use command ```manage.py runserver 0.0.0.0:8080``` to run the server, 8080 will be the port we use on webpage.   
+Fifth, go to the browser to check the webpage, http://192.168.0.1:8080.      
 
 ### User example
 We have bunch of users, like one of them, Z, want to find proper course in Electrical and Computer Engineering major in Boston University. Z can use our web questionaire system (including our recommendation algorithm) to get recommended courses from us; moreover, he can also go to our course community to check others' sharing and review.     
