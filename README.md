@@ -90,6 +90,8 @@ The loggined home page looks like below:
 The profile page contains a user picture and email and username.
 The page looks like below:
 ![p7](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p7.png)
+The 'Quora' button can help you jump to the questionare page.
+After clicked the logout file you will be back to the original home page.
 ## Sprint 3   
 In sprint 3, we did a lot on 3 parts: user login/register system, questionaire web system and recommendation system.    
 For user login/register system, we updated several links to different web pages.       
