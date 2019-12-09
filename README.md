@@ -123,7 +123,9 @@ Below is the final setted up demo image.
 
 
 #### Manual for user register/login system      
-
+In sprint 3 we finished the administrator system.
+by going to the ulr/admin you can go to the administrator page, which looks like below:
+![p11](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p11.png)
        
 #### Manual for algorithm (.py file)
 Operating system need: Linux / Windows
