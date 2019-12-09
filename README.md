@@ -70,8 +70,10 @@ Below is the final setted up demo image.
 #### Manual for user register/login system
 The home page looks like below:
 ![p1](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/image.png)
-
-
+The user can click the 'CoursFront' or 'Home' button to go back home.
+by clicking the 'About' button the user can go to the About page, which contains the basic informations about this web.
+The about page looks like below:
+![p2](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p2.png)
 
 ## Sprint 3   
 In sprint 3, we did a lot on 3 parts: user login/register system, questionaire web system and recommendation system.    
