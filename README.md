@@ -26,6 +26,8 @@ Finished sprint 2.
 Finished sprint 3.     
 Working on final wrap-up.    
 
+<hr> 
+
 ## Sprint 1
 First, sprint 1 introduces product definition including product mission, target users, user stories, MVP and user interface.    
 Second, sprint1 also lists the product survey about comparing with other similar products.    
