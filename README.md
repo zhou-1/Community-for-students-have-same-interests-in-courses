@@ -77,7 +77,10 @@ The about page looks like below:
 You can click 'Login' button to login to the web. If you are new user you can click 'Register' Button to register.
 The login page looks like below:
 ![p3](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p3.png)
-
+A good thing is if you are not a registered user but still clicked the 'Login' Button, there is still a link of register page
+to help you go to the register page.
+The register page looks like below:
+![p4](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p4.png)
 ## Sprint 3   
 In sprint 3, we did a lot on 3 parts: user login/register system, questionaire web system and recommendation system.    
 For user login/register system, we updated several links to different web pages.       
