@@ -74,6 +74,9 @@ The user can click the 'CoursFront' or 'Home' button to go back home.
 by clicking the 'About' button the user can go to the About page, which contains the basic informations about this web.
 The about page looks like below:
 ![p2](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p2.png)
+You can click 'Login' button to login to the web. If you are new user you can click 'Register' Button to register.
+The login page looks like below:
+![p3](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p3.png)
 
 ## Sprint 3   
 In sprint 3, we did a lot on 3 parts: user login/register system, questionaire web system and recommendation system.    
@@ -101,8 +104,8 @@ Fifth, go to the browser to check the webpage, http://192.168.0.1:8080.
 Sixth, choose the result based on your background and submit your answer.
 
 Below is the final setted up demo image.    
-![Image description1](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/sprint3_into.png)      
-![Image description2](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/sprint3_question.png)        
+![Image description1](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/sprint3_into.png)
+![Image description2](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/sprint3_question.png)
 
 
 #### Manual for user register/login system      
