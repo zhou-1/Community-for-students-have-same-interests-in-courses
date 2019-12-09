@@ -1,5 +1,7 @@
 # Community for students have same interests in courses   
 Get recommanded courses based on your own choices and our algorithm, communicate and make friends in our accademic web community.    
+Deploya django app through azure.    
+https://stories.mlh.io/deploying-a-basic-django-app-using-azure-app-services-71ec3b21db08    
 
 ## Final Set up for the project      
 ### Needed files and programs       
