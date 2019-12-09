@@ -68,7 +68,7 @@ Below is the final setted up demo image.
 ![Image description](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/Sprint2/IndexView.PNG)
 
 #### Manual for user register/login system    
-
+![p1](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/image.png)
 
 
 
