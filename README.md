@@ -5,7 +5,7 @@ https://stories.mlh.io/deploying-a-basic-django-app-using-azure-app-services-71e
 
 ## Final Set up for the project      
 ### Needed files and programs       
-
+All files needed in [FinalFiles folder](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/tree/master/FinalFiles)    
 
 ### Manual for setting up        
 
