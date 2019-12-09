@@ -126,7 +126,9 @@ Below is the final setted up demo image.
 In sprint 3 we finished the administrator system.
 by going to the ulr/admin you can go to the administrator page, which looks like below:
 ![p11](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p11.png)
-       
+It requires an admin account like a super user. For example, the admin id is Osama, password is osama123
+then you can junmp to the page like this:
+![p12](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p11.png)
 #### Manual for algorithm (.py file)
 Operating system need: Linux / Windows
 Programming language: Python   
