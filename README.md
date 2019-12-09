@@ -7,6 +7,10 @@ https://stories.mlh.io/deploying-a-basic-django-app-using-azure-app-services-71e
 ### Needed files and programs       
 All files needed in [FinalFiles folder](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/tree/master/FinalFiles)    
 Download the zipped file inside the folder.   
+    
+OR     
+
+Use ``` git clone https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/tree/master/FinalFiles ```    
 
 ### Manual for setting up        
 Operating system need: Linux     
