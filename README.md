@@ -83,6 +83,10 @@ The register page looks like below:
 ![p4](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p4.png)
 Once you have successfully registered there is a link to help you go back to login the page looks like below:
 ![p5](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p5.png)
+After you login there will be a little difference on the upper right corner.
+'Quora' Button is a questionare. 'Profile' Button is your personal profile. 'Logout' button can help you logout.
+The loggined home page looks like below:
+![p6](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p6.png)
 ## Sprint 3   
 In sprint 3, we did a lot on 3 parts: user login/register system, questionaire web system and recommendation system.    
 For user login/register system, we updated several links to different web pages.       
