@@ -143,7 +143,7 @@ by going to the ulr/admin you can go to the administrator page, which looks like
 It requires an admin account like a super user. For example, the admin id is Osama, password is osama123
 then you can junmp to the page like this:
 ![p12](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/p12.png)
-#### Manual for algorithm (.py file)
+#### Manual for algorithm    
 Operating system need: Linux / Windows
 Programming language: Python   
 
