@@ -11,7 +11,7 @@ Download the zipped file inside the folder.
     
 OR     
 
-Use ``` git clone https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/tree/master/FinalFiles ```    
+Use ``` git clone https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/FinalFiles/CourseFront.zip ```    
 
 ### Manual for setting up        
 Operating system need: Linux     
