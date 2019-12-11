@@ -6,7 +6,7 @@ If you are interested in our project, you can aslo check [our video demo here.](
 
 OR
 
-You can check out with [our poster](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/courseFrontPoster.pdf)   
+You can check out with [our poster.](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/courseFrontPoster.pdf)   
 
 ## Final Set up for the project      
 ### Needed files and programs       
