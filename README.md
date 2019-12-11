@@ -41,7 +41,7 @@ Below is the architectur image for our project.
 Finished sprint 1.      
 Finished sprint 2.  
 Finished sprint 3.     
-Working on final wrap-up.    
+Finished final wrap-up.    
 
 <hr> 
 
