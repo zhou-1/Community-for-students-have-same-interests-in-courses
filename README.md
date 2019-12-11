@@ -2,6 +2,8 @@
 Get recommanded courses based on your own choices and our algorithm, communicate and make friends in our accademic web community.    
 Deploy a django app through azure/AWS. (future)       
 
+If you are interested in our project, you can aslo check [our video demo here.](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/blob/master/img/A2_10_Zhou_CourseFrontDemo.mp4)    
+
 ## Final Set up for the project      
 ### Needed files and programs       
 All files needed in [FinalFiles folder](https://github.com/zhou-1/Community-for-students-have-same-interests-in-courses/tree/master/FinalFiles)    
